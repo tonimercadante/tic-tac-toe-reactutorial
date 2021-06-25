@@ -1,4 +1,4 @@
-Tic-toc-toe game in Reactjs from https://reactjs.org/tutorial/tutorial.html
+Tic-tac-toe game in Reactjs from https://reactjs.org/tutorial/tutorial.html
 
 # Getting Started with Create React App
 
